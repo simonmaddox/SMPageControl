@@ -132,6 +132,10 @@
 			F45373891133FF1D00235A8A /* PBXTextBookmark */ = F45373891133FF1D00235A8A /* PBXTextBookmark */;
 			F453738A1133FF1D00235A8A /* PBXTextBookmark */ = F453738A1133FF1D00235A8A /* PBXTextBookmark */;
 			F453738B1133FF1D00235A8A /* PBXTextBookmark */ = F453738B1133FF1D00235A8A /* PBXTextBookmark */;
+			F453739B113400E300235A8A /* PlistBookmark */ = F453739B113400E300235A8A /* PlistBookmark */;
+			F453739C113400E300235A8A /* PBXTextBookmark */ = F453739C113400E300235A8A /* PBXTextBookmark */;
+			F453739D113400E300235A8A /* PBXTextBookmark */ = F453739D113400E300235A8A /* PBXTextBookmark */;
+			F453739E113400E300235A8A /* PBXTextBookmark */ = F453739E113400E300235A8A /* PBXTextBookmark */;
 		};
 		sourceControlManager = F45372B01133F56200235A8A /* Source Control */;
 		userBuildSettings = {
@@ -171,16 +175,16 @@
 	};
 	F45372AD1133F56200235A8A /* SMPageControl.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1171, 718}}";
-			sepNavSelRange = "{386, 0}";
-			sepNavVisRange = "{0, 615}";
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 741}}";
+			sepNavSelRange = "{106, 0}";
+			sepNavVisRange = "{0, 1688}";
 		};
 	};
 	F45372AE1133F56200235A8A /* SMPageControl.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1171, 910}}";
-			sepNavSelRange = "{1282, 0}";
-			sepNavVisRange = "{207, 1365}";
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 1105}}";
+			sepNavSelRange = "{106, 0}";
+			sepNavVisRange = "{0, 1988}";
 		};
 	};
 	F45372B01133F56200235A8A /* Source Control */ = {
@@ -251,7 +255,7 @@
 		fRef = F45372AD1133F56200235A8A /* SMPageControl.h */;
 		name = "SMPageControl.h: 18";
 		rLen = 0;
-		rLoc = 352;
+		rLoc = 1425;
 		rType = 0;
 		vrLen = 651;
 		vrLoc = 0;
@@ -261,7 +265,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 53";
 		rLen = 0;
-		rLoc = 1196;
+		rLoc = 2269;
 		rType = 0;
 		vrLen = 1418;
 		vrLoc = 0;
@@ -271,7 +275,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 55";
 		rLen = 0;
-		rLoc = 1231;
+		rLoc = 2304;
 		rType = 0;
 		vrLen = 1345;
 		vrLoc = 306;
@@ -281,7 +285,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 53";
 		rLen = 0;
-		rLoc = 1196;
+		rLoc = 2269;
 		rType = 0;
 		vrLen = 1347;
 		vrLoc = 306;
@@ -291,7 +295,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 53";
 		rLen = 0;
-		rLoc = 1196;
+		rLoc = 2269;
 		rType = 0;
 		vrLen = 1347;
 		vrLoc = 306;
@@ -491,7 +495,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 53";
 		rLen = 0;
-		rLoc = 1196;
+		rLoc = 2269;
 		rType = 0;
 		vrLen = 1348;
 		vrLoc = 305;
@@ -501,7 +505,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 21";
 		rLen = 0;
-		rLoc = 453;
+		rLoc = 1526;
 		rType = 0;
 		vrLen = 1367;
 		vrLoc = 150;
@@ -511,7 +515,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 10";
 		rLen = 0;
-		rLoc = 176;
+		rLoc = 1249;
 		rType = 0;
 		vrLen = 1470;
 		vrLoc = 0;
@@ -525,7 +529,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 25";
 		rLen = 0;
-		rLoc = 579;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 1372;
 		vrLoc = 146;
@@ -645,7 +649,7 @@
 		fRef = F45372AD1133F56200235A8A /* SMPageControl.h */;
 		name = "SMPageControl.h: 18";
 		rLen = 0;
-		rLoc = 352;
+		rLoc = 1425;
 		rType = 0;
 		vrLen = 651;
 		vrLoc = 0;
@@ -655,7 +659,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 24";
 		rLen = 0;
-		rLoc = 548;
+		rLoc = 1621;
 		rType = 0;
 		vrLen = 1470;
 		vrLoc = 0;
@@ -696,7 +700,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 68;
+		rLoc = 86;
 		rType = 1;
 	};
 	F45373571133FE6D00235A8A /* PBXTextBookmark */ = {
@@ -704,7 +708,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 64";
 		rLen = 0;
-		rLoc = 1573;
+		rLoc = 2646;
 		rType = 0;
 		vrLen = 153;
 		vrLoc = 1381;
@@ -724,7 +728,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 64";
 		rLen = 0;
-		rLoc = 1573;
+		rLoc = 2646;
 		rType = 0;
 		vrLen = 1384;
 		vrLoc = 150;
@@ -734,7 +738,7 @@
 		fRef = F45372AD1133F56200235A8A /* SMPageControl.h */;
 		name = "SMPageControl.h: 26";
 		rLen = 0;
-		rLoc = 609;
+		rLoc = 1682;
 		rType = 0;
 		vrLen = 615;
 		vrLoc = 0;
@@ -764,7 +768,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 64";
 		rLen = 0;
-		rLoc = 1573;
+		rLoc = 2646;
 		rType = 0;
 		vrLen = 153;
 		vrLoc = 1381;
@@ -794,7 +798,7 @@
 		fRef = F45372AD1133F56200235A8A /* SMPageControl.h */;
 		name = "SMPageControl.h: 26";
 		rLen = 0;
-		rLoc = 609;
+		rLoc = 1682;
 		rType = 0;
 		vrLen = 615;
 		vrLoc = 0;
@@ -804,7 +808,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 56";
 		rLen = 0;
-		rLoc = 1437;
+		rLoc = 2510;
 		rType = 0;
 		vrLen = 1387;
 		vrLoc = 150;
@@ -814,7 +818,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 56";
 		rLen = 0;
-		rLoc = 1437;
+		rLoc = 2510;
 		rType = 0;
 		vrLen = 1406;
 		vrLoc = 150;
@@ -824,7 +828,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 69";
 		rLen = 0;
-		rLoc = 1573;
+		rLoc = 2646;
 		rType = 0;
 		vrLen = 157;
 		vrLoc = 1381;
@@ -834,7 +838,7 @@
 		fRef = F45372AD1133F56200235A8A /* SMPageControl.h */;
 		name = "SMPageControl.h: 26";
 		rLen = 0;
-		rLoc = 609;
+		rLoc = 1682;
 		rType = 0;
 		vrLen = 615;
 		vrLoc = 0;
@@ -844,7 +848,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 61";
 		rLen = 0;
-		rLoc = 1521;
+		rLoc = 2594;
 		rType = 0;
 		vrLen = 1406;
 		vrLoc = 150;
@@ -854,7 +858,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 60";
 		rLen = 0;
-		rLoc = 1501;
+		rLoc = 2574;
 		rType = 0;
 		vrLen = 1398;
 		vrLoc = 150;
@@ -864,7 +868,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 52";
 		rLen = 0;
-		rLoc = 1437;
+		rLoc = 2510;
 		rType = 0;
 		vrLen = 1376;
 		vrLoc = 150;
@@ -874,7 +878,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 52";
 		rLen = 52;
-		rLoc = 1385;
+		rLoc = 2458;
 		rType = 0;
 		vrLen = 1398;
 		vrLoc = 150;
@@ -884,7 +888,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 81";
 		rLen = 0;
-		rLoc = 1573;
+		rLoc = 2646;
 		rType = 0;
 		vrLen = 474;
 		vrLoc = 1084;
@@ -894,7 +898,7 @@
 		fRef = F45372AD1133F56200235A8A /* SMPageControl.h */;
 		name = "SMPageControl.h: 20";
 		rLen = 0;
-		rLoc = 386;
+		rLoc = 1459;
 		rType = 0;
 		vrLen = 615;
 		vrLoc = 0;
@@ -904,7 +908,7 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 10";
 		rLen = 0;
-		rLoc = 176;
+		rLoc = 1249;
 		rType = 0;
 		vrLen = 1436;
 		vrLoc = 0;
@@ -914,9 +918,50 @@
 		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
 		name = "SMPageControl.m: 49";
 		rLen = 0;
-		rLoc = 1282;
+		rLoc = 2355;
 		rType = 0;
 		vrLen = 1365;
 		vrLoc = 207;
+	};
+	F453739B113400E300235A8A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SMPageControl-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/simon/Development/Open Source Code/SMPageControl/SMPageControl-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	F453739C113400E300235A8A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F45372AE1133F56200235A8A /* SMPageControl.m */;
+		name = "SMPageControl.m: 6";
+		rLen = 0;
+		rLoc = 106;
+		rType = 0;
+		vrLen = 1988;
+		vrLoc = 0;
+	};
+	F453739D113400E300235A8A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F45372AD1133F56200235A8A /* SMPageControl.h */;
+		name = "SMPageControl.h: 1";
+		rLen = 1221;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1693;
+		vrLoc = 0;
+	};
+	F453739E113400E300235A8A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F45372AD1133F56200235A8A /* SMPageControl.h */;
+		name = "SMPageControl.h: 6";
+		rLen = 0;
+		rLoc = 106;
+		rType = 0;
+		vrLen = 1688;
+		vrLoc = 0;
 	};
 }

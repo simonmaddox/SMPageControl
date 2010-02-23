@@ -296,7 +296,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>7</integer>
+									<integer>6</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -339,7 +339,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>SMPageControl.m</string>
+								<string>SMPageControl.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -347,18 +347,19 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>SMPageControl.m</string>
+										<string>SMPageControl.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>F453738B1133FF1D00235A8A</string>
+										<string>F453739E113400E300235A8A</string>
 										<key>history</key>
 										<array>
 											<string>F45373261133FB1500235A8A</string>
 											<string>F453735C1133FE7800235A8A</string>
 											<string>F453736D1133FEA000235A8A</string>
-											<string>F45373891133FF1D00235A8A</string>
-											<string>F453738A1133FF1D00235A8A</string>
+											<string>F453739B113400E300235A8A</string>
+											<string>F453739C113400E300235A8A</string>
+											<string>F453739D113400E300235A8A</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -539,7 +540,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>288620317.65193099</real>
+	<real>288620771.75849801</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>
@@ -556,7 +557,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>F45373811133FEDC00235A8A</string>
 		<string>F45373721133FEA000235A8A</string>
 		<string>F45373681133FE8100235A8A</string>
 		<string>1CD10A99069EF8BA00B06720</string>
